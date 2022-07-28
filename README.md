@@ -3,7 +3,10 @@
 ## A ESP for ChilloutVR in the shape of a capsule that scales with the avatar.
 
 ### How to use it:
-#### => U will need melonloader for it, u just add it to your mods.
+#### => U will need melonloader or BepinEx for it.
+#### => Melonloader: Drag the ml dll into the mods folder.
+#### => BepInEx: Drag the BepInEx dll into the plugins folder from the BepInEx directory.
+
 
 ### Customazation:
 #### In the Nocturnal folder from CVR directory u will have a file called ESP_Config.Json
