@@ -19,3 +19,4 @@
 ## Preview
 ![esp](https://user-images.githubusercontent.com/74219635/181627525-49fcbb76-31c4-48a1-991b-921497a1f797.png)
 ###### I do not affiliate with ABI and the mod is not supported by ABI.
+###### If u want to know wen I update something or make a new mod join on discord.gg/nv3 .
